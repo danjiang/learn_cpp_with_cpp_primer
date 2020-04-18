@@ -1,8 +1,8 @@
-#include <iostream>
 #include "chapter1.h"
 #include "chapter2.h"
+#include "chapter3.h"
 
 int main() {
-    exercise_2_24();
+    exercise_3_41();
     return 0;
 }
