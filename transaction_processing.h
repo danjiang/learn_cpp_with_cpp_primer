@@ -1,0 +1,10 @@
+//
+// Created by Dan Jiang on 2020/5/2.
+//
+
+#ifndef LEARN_CPP_WITH_CPP_PRIMER__TRANSACTION_PROCESSING_H_
+#define LEARN_CPP_WITH_CPP_PRIMER__TRANSACTION_PROCESSING_H_
+
+void transaction_processing();
+
+#endif //LEARN_CPP_WITH_CPP_PRIMER__TRANSACTION_PROCESSING_H_
