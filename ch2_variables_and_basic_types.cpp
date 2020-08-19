@@ -2,7 +2,7 @@
 // Created by Dan Jiang on 2020/4/11.
 //
 
-#include "chapter2.h"
+#include "ch2_variables_and_basic_types.h"
 #include <iostream>
 
 void exercise_2_3() {

@@ -1,9 +1,10 @@
-#include "chapter1.h"
-#include "chapter2.h"
-#include "chapter3.h"
+#include "ch1_getting_started.h"
+#include "ch2_variables_and_basic_types.h"
+#include "ch3_strings_vectors_and_arrays.h"
 #include "transaction_processing.h"
+#include "ch10_generic_algorithms.h"
 
 int main() {
-    transaction_processing();
+    exercise_10_1();
     return 0;
 }

@@ -2,7 +2,7 @@
 // Created by Dan Jiang on 2020/4/11.
 //
 
-#include "chapter1.h"
+#include "ch1_getting_started.h"
 #include <iostream>
 #include "Sales_item.h"
 

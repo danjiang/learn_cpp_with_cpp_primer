@@ -2,8 +2,8 @@
 // Created by Dan Jiang on 2020/4/11.
 //
 
-#ifndef LEARN_CPP_WITH_CPP_PRIMER_CHAPTER1_H
-#define LEARN_CPP_WITH_CPP_PRIMER_CHAPTER1_H
+#ifndef LEARN_CPP_WITH_CPP_PRIMER__CH1_GETTING_STARTED_H_
+#define LEARN_CPP_WITH_CPP_PRIMER__CH1_GETTING_STARTED_H_
 
 void exercise_1_3();
 void exercise_1_4();
@@ -20,4 +20,4 @@ void exercise_1_22();
 void exercise_1_23();
 void exercise_1_25();
 
-#endif //LEARN_CPP_WITH_CPP_PRIMER_CHAPTER1_H
+#endif //LEARN_CPP_WITH_CPP_PRIMER__CH1_GETTING_STARTED_H_
