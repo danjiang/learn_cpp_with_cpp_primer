@@ -5,6 +5,6 @@
 #include "ch10_generic_algorithms.h"
 
 int main() {
-    exercise_10_1();
-    return 0;
+  exercise_10_2();
+  return 0;
 }
