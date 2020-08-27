@@ -16,4 +16,8 @@ add_executable(learn_cpp_with_cpp_primer
         Sales_data.cpp
         Sales_data.h
         Screen.h
-        Screen.cpp ch10_generic_algorithms.cpp ch10_generic_algorithms.h)
+        Screen.cpp
+        ch10_generic_algorithms.cpp
+        ch10_generic_algorithms.h
+        ch11_associative_containers.cpp
+        ch11_associative_containers.h)

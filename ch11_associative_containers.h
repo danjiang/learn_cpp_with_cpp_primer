@@ -1,0 +1,12 @@
+//
+// Created by Dan Jiang on 2020/8/25.
+//
+
+#ifndef LEARN_CPP_WITH_CPP_PRIMER__CH11_ASSOCIATIVE_CONTAINERS_H_
+#define LEARN_CPP_WITH_CPP_PRIMER__CH11_ASSOCIATIVE_CONTAINERS_H_
+
+void exercise_11_1();
+void exercise_11_2();
+void exercise_11_3();
+
+#endif //LEARN_CPP_WITH_CPP_PRIMER__CH11_ASSOCIATIVE_CONTAINERS_H_
