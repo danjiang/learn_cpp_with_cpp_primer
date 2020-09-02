@@ -4,8 +4,9 @@
 #include "transaction_processing.h"
 #include "ch10_generic_algorithms.h"
 #include "ch11_associative_containers.h"
+#include "ch12_dynamic_memory_and_smart_pointers.h"
 
 int main() {
-  exercise_11_3();
+  exercise_12_2();
   return 0;
 }

@@ -20,4 +20,12 @@ add_executable(learn_cpp_with_cpp_primer
         ch10_generic_algorithms.cpp
         ch10_generic_algorithms.h
         ch11_associative_containers.cpp
-        ch11_associative_containers.h)
+        ch11_associative_containers.h
+        ch12_dynamic_memory_and_smart_pointers.cpp
+        ch12_dynamic_memory_and_smart_pointers.h
+        StrBlob.cpp
+        StrBlob.h
+        TextQuery.cpp
+        TextQuery.h
+        QueryResult.cpp
+        QueryResult.h)
