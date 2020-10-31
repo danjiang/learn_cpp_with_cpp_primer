@@ -28,4 +28,37 @@ add_executable(learn_cpp_with_cpp_primer
         TextQuery.cpp
         TextQuery.h
         QueryResult.cpp
-        QueryResult.h)
+        QueryResult.h
+        HasPtrValue.cpp
+        HasPtrValue.h
+        HasPtrPointer.cpp
+        HasPtrPointer.h
+        Message.cpp
+        Message.h
+        Folder.cpp
+        Folder.h
+        Quote.cpp
+        Quote.h
+        Bulk_quote.cpp
+        Bulk_quote.h
+        ch15_oop.cpp
+        ch15_oop.h
+        Disc_quote.cpp
+        Disc_quote.h
+        Query_base.cpp
+        Query_base.h
+        Query.cpp
+        Query.h
+        WordQuery.cpp
+        WordQuery.h
+        NotQuery.cpp
+        NotQuery.h
+        BinaryQuery.cpp
+        BinaryQuery.h
+        AndQuery.cpp
+        AndQuery.h
+        OrQuery.cpp
+        OrQuery.h
+        ch16_templates_and_generic_programming.cpp
+        ch16_templates_and_generic_programming.h
+        Blob.h)

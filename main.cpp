@@ -5,8 +5,10 @@
 #include "ch10_generic_algorithms.h"
 #include "ch11_associative_containers.h"
 #include "ch12_dynamic_memory_and_smart_pointers.h"
+#include "ch15_oop.h"
+#include "ch16_templates_and_generic_programming.h"
 
 int main() {
-  exercise_12_2();
+  exercise_16_1();
   return 0;
 }
